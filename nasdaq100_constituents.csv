@@ -1,102 +1,102 @@
 ticker,company,icb industry,icb subsector,date
-ADBE,Adobe Inc.,Technology,Software,2026-10-04
-AMD,Advanced Micro Devices,Technology,Semiconductors,2026-10-04
-ABNB,Airbnb,Consumer Discretionary,Diversified Commercial Services,2026-10-04
-ALNY,Alnylam Pharmaceuticals,Health Care,Biotechnology,2026-10-04
-GOOGL,Alphabet Inc. (Class A),Technology,Software,2026-10-04
-GOOG,Alphabet Inc. (Class C),Technology,Software,2026-10-04
-AMZN,Amazon,Consumer Discretionary,Catalog/Specialty Distribution,2026-10-04
-AEP,American Electric Power,Utilities,Electric Utilities,2026-10-04
-AMGN,Amgen,Health Care,Biotechnology,2026-10-04
-ADI,Analog Devices,Technology,Semiconductors,2026-10-04
-AAPL,Apple Inc.,Technology,Computer Hardware,2026-10-04
-AMAT,Applied Materials,Technology,Semiconductors,2026-10-04
-APP,AppLovin,Technology,Software,2026-10-04
-ARM,Arm Holdings,Technology,Semiconductors,2026-10-04
-ASML,ASML Holding,Technology,Industrial Machinery,2026-10-04
-ALAB,Astera Labs,Technology,Semiconductors,2026-10-04
-ADSK,Autodesk,Technology,Software,2026-10-04
-ADP,Automatic Data Processing,Industrials,Diversified Commercial Services,2026-10-04
-AXON,Axon Enterprise,Industrials,Ordnance & Accessories,2026-10-04
-BKR,Baker Hughes,Energy,Oil Equipment & Services,2026-10-04
-BKNG,Booking Holdings,Consumer Discretionary,Transportation Services,2026-10-04
-AVGO,Broadcom,Technology,Semiconductors,2026-10-04
-CDNS,Cadence Design Systems,Technology,Software,2026-10-04
-CTAS,Cintas,Industrials,Garments & Clothing,2026-10-04
-CSCO,Cisco,Telecommunications,Computer Communications Equipment,2026-10-04
-CCEP,Coca-Cola Europacific Partners,Consumer Staples,Soft Drinks,2026-10-04
-CMCSA,Comcast,Telecommunications,Cable & Other Pay Television Services,2026-10-04
-CEG,Constellation Energy,Utilities,Electric Utilities,2026-10-04
-CPRT,Copart,Consumer Discretionary,Retail,2026-10-04
-CRWV,CoreWeave,Technology,Computer Services,2026-10-04
-COST,Costco,Consumer Discretionary,Department/Specialty Retail Stores,2026-10-04
-CRWD,CrowdStrike,Technology,Software,2026-10-04
-CSX,CSX Corporation,Industrials,Railroads,2026-10-04
-DDOG,Datadog,Technology,Software,2026-10-04
-DXCM,DexCom,Health Care,Medical/Dental Instruments,2026-10-04
-FANG,Diamondback Energy,Energy,Oil & Gas Production,2026-10-04
-DASH,DoorDash,Technology,Software,2026-10-04
-EXC,Exelon,Utilities,Power Generation,2026-10-04
-FAST,Fastenal,Industrials,Construction & Materials,2026-10-04
-FER,Ferrovial,Industrials,"Military, Government, Technical",2026-10-04
-FTNT,Fortinet,Technology,Computer Peripheral Equipment,2026-10-04
-GEHC,GE HealthCare,Health Care,Medical Electronics,2026-10-04
-GILD,Gilead Sciences,Health Care,Biotechnology,2026-10-04
-HONA,Honeywell Aerospace,Industrials,Aerospace,2026-10-04
-HON,Honeywell Technologies,Industrials,Diversified Industrials,2026-10-04
-IDXX,Idexx Laboratories,Health Care,Biotechnology,2026-10-04
-INTC,Intel,Technology,Semiconductors,2026-10-04
-INTU,Intuit,Technology,Computer Software,2026-10-04
-ISRG,Intuitive Surgical,Health Care,Industrial Specialties,2026-10-04
-KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks,2026-10-04
-KLAC,KLA Corporation,Technology,Electronic Components,2026-10-04
-LRCX,Lam Research,Technology,Industrial Machinery,2026-10-04
-LIN,Linde plc,Basic Materials,Major Chemicals,2026-10-04
-LITE,Lumentum,Technology,Communication Equipment,2026-10-04
-MAR,Marriott International,Consumer Discretionary,Hotels/Resorts,2026-10-04
-MRVL,Marvell Technology,Technology,Semiconductors,2026-10-04
-MELI,Mercado Libre,Consumer Discretionary,Catalog/Specialty Distribution,2026-10-04
-META,Meta Platforms,Technology,Software,2026-10-04
-MCHP,Microchip Technology,Technology,Semiconductors,2026-10-04
-MU,Micron Technology,Technology,Semiconductors,2026-10-04
-MSFT,Microsoft,Technology,Software,2026-10-04
-MSTR,MicroStrategy,Technology,Software,2026-10-04
-MDLZ,Mondelez International,Consumer Staples,Packaged Foods,2026-10-04
-MPWR,Monolithic Power Systems,Technology,Semiconductors,2026-10-04
-MNST,Monster Beverage,Consumer Staples,Soft Drinks,2026-10-04
-NBIS,Nebius Group,Technology,Computer Services,2026-10-04
-NFLX,"Netflix, Inc.",Consumer Discretionary,Consumer Electronics,2026-10-04
-NVDA,Nvidia,Technology,Semiconductors,2026-10-04
-NXPI,NXP Semiconductors,Technology,Semiconductors,2026-10-04
-ORLY,O'Reilly Automotive,Consumer Discretionary,Specialty Retailers,2026-10-04
-ODFL,Old Dominion Freight Line,Industrials,Trucking,2026-10-04
-PCAR,Paccar,Consumer Discretionary,Motor Vehicles,2026-10-04
-PLTR,Palantir Technologies,Technology,Software,2026-10-04
-PANW,Palo Alto Networks,Technology,Computer Peripheral Equipment,2026-10-04
-PAYX,Paychex,Industrials,Diversified Commercial Services,2026-10-04
-PYPL,PayPal,Industrials,Diversified Commercial Services,2026-10-04
-PDD,PDD Holdings,Technology,EDP Services,2026-10-04
-PEP,PepsiCo,Consumer Staples,Soft Drinks,2026-10-04
-QCOM,Qualcomm,Technology,Semiconductors,2026-10-04
-REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,2026-10-04
-RKLB,Rocket Lab,Industrials,Aerospace,2026-10-04
-ROP,Roper Technologies,Technology,Software,2026-10-04
-ROST,Ross Stores,Consumer Discretionary,Clothing/Shoe/Accessory Stores,2026-10-04
-SNDK,Sandisk,Technology,Electronic Components,2026-10-04
-STX,Seagate Technology,Technology,Electronic Components,2026-10-04
-SHOP,Shopify,Technology,Software,2026-10-04
-SPCX,SpaceX,Telecommunications,Telecommunications Services,2026-10-04
-SBUX,Starbucks,Consumer Discretionary,Restaurants,2026-10-04
-SNPS,Synopsys,Technology,Software,2026-10-04
-TMUS,T-Mobile US,Telecommunications,Telecommunications Services,2026-10-04
-TTWO,Take-Two Interactive,Consumer Discretionary,Miscellaneous Amusement & Recreation Services,2026-10-04
-TER,Teradyne,Technology,Semiconductors,2026-10-04
-TSLA,"Tesla, Inc.",Consumer Discretionary,Automobiles & Parts,2026-10-04
-TXN,Texas Instruments,Technology,Semiconductors,2026-10-04
-TRI,Thomson Reuters,Technology,Software,2026-10-04
-VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,2026-10-04
-WMT,Walmart,Consumer Discretionary,Department/Specialty Retail Stores,2026-10-04
-WBD,Warner Bros. Discovery,Consumer Discretionary,Entertainment,2026-10-04
-WDC,Western Digital,Technology,Electronic Components,2026-10-04
-WDAY,"Workday, Inc.",Technology,Software,2026-10-04
-XEL,Xcel Energy,Utilities,Conventional Electricity,2026-10-04
+ADBE,Adobe Inc.,Technology,Software,2026-10-05
+AMD,Advanced Micro Devices,Technology,Semiconductors,2026-10-05
+ABNB,Airbnb,Consumer Discretionary,Diversified Commercial Services,2026-10-05
+ALNY,Alnylam Pharmaceuticals,Health Care,Biotechnology,2026-10-05
+GOOGL,Alphabet Inc. (Class A),Technology,Software,2026-10-05
+GOOG,Alphabet Inc. (Class C),Technology,Software,2026-10-05
+AMZN,Amazon,Consumer Discretionary,Catalog/Specialty Distribution,2026-10-05
+AEP,American Electric Power,Utilities,Electric Utilities,2026-10-05
+AMGN,Amgen,Health Care,Biotechnology,2026-10-05
+ADI,Analog Devices,Technology,Semiconductors,2026-10-05
+AAPL,Apple Inc.,Technology,Computer Hardware,2026-10-05
+AMAT,Applied Materials,Technology,Semiconductors,2026-10-05
+APP,AppLovin,Technology,Software,2026-10-05
+ARM,Arm Holdings,Technology,Semiconductors,2026-10-05
+ASML,ASML Holding,Technology,Industrial Machinery,2026-10-05
+ALAB,Astera Labs,Technology,Semiconductors,2026-10-05
+ADSK,Autodesk,Technology,Software,2026-10-05
+ADP,Automatic Data Processing,Industrials,Diversified Commercial Services,2026-10-05
+AXON,Axon Enterprise,Industrials,Ordnance & Accessories,2026-10-05
+BKR,Baker Hughes,Energy,Oil Equipment & Services,2026-10-05
+BKNG,Booking Holdings,Consumer Discretionary,Transportation Services,2026-10-05
+AVGO,Broadcom,Technology,Semiconductors,2026-10-05
+CDNS,Cadence Design Systems,Technology,Software,2026-10-05
+CTAS,Cintas,Industrials,Garments & Clothing,2026-10-05
+CSCO,Cisco,Telecommunications,Computer Communications Equipment,2026-10-05
+CCEP,Coca-Cola Europacific Partners,Consumer Staples,Soft Drinks,2026-10-05
+CMCSA,Comcast,Telecommunications,Cable & Other Pay Television Services,2026-10-05
+CEG,Constellation Energy,Utilities,Electric Utilities,2026-10-05
+CPRT,Copart,Consumer Discretionary,Retail,2026-10-05
+CRWV,CoreWeave,Technology,Computer Services,2026-10-05
+COST,Costco,Consumer Discretionary,Department/Specialty Retail Stores,2026-10-05
+CRWD,CrowdStrike,Technology,Software,2026-10-05
+CSX,CSX Corporation,Industrials,Railroads,2026-10-05
+DDOG,Datadog,Technology,Software,2026-10-05
+DXCM,DexCom,Health Care,Medical/Dental Instruments,2026-10-05
+FANG,Diamondback Energy,Energy,Oil & Gas Production,2026-10-05
+DASH,DoorDash,Technology,Software,2026-10-05
+EXC,Exelon,Utilities,Power Generation,2026-10-05
+FAST,Fastenal,Industrials,Construction & Materials,2026-10-05
+FER,Ferrovial,Industrials,"Military, Government, Technical",2026-10-05
+FTNT,Fortinet,Technology,Computer Peripheral Equipment,2026-10-05
+GEHC,GE HealthCare,Health Care,Medical Electronics,2026-10-05
+GILD,Gilead Sciences,Health Care,Biotechnology,2026-10-05
+HONA,Honeywell Aerospace,Industrials,Aerospace,2026-10-05
+HON,Honeywell Technologies,Industrials,Diversified Industrials,2026-10-05
+IDXX,Idexx Laboratories,Health Care,Biotechnology,2026-10-05
+INTC,Intel,Technology,Semiconductors,2026-10-05
+INTU,Intuit,Technology,Computer Software,2026-10-05
+ISRG,Intuitive Surgical,Health Care,Industrial Specialties,2026-10-05
+KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks,2026-10-05
+KLAC,KLA Corporation,Technology,Electronic Components,2026-10-05
+LRCX,Lam Research,Technology,Industrial Machinery,2026-10-05
+LIN,Linde plc,Basic Materials,Major Chemicals,2026-10-05
+LITE,Lumentum,Technology,Communication Equipment,2026-10-05
+MAR,Marriott International,Consumer Discretionary,Hotels/Resorts,2026-10-05
+MRVL,Marvell Technology,Technology,Semiconductors,2026-10-05
+MELI,Mercado Libre,Consumer Discretionary,Catalog/Specialty Distribution,2026-10-05
+META,Meta Platforms,Technology,Software,2026-10-05
+MCHP,Microchip Technology,Technology,Semiconductors,2026-10-05
+MU,Micron Technology,Technology,Semiconductors,2026-10-05
+MSFT,Microsoft,Technology,Software,2026-10-05
+MSTR,MicroStrategy,Technology,Software,2026-10-05
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods,2026-10-05
+MPWR,Monolithic Power Systems,Technology,Semiconductors,2026-10-05
+MNST,Monster Beverage,Consumer Staples,Soft Drinks,2026-10-05
+NBIS,Nebius Group,Technology,Computer Services,2026-10-05
+NFLX,"Netflix, Inc.",Consumer Discretionary,Consumer Electronics,2026-10-05
+NVDA,Nvidia,Technology,Semiconductors,2026-10-05
+NXPI,NXP Semiconductors,Technology,Semiconductors,2026-10-05
+ORLY,O'Reilly Automotive,Consumer Discretionary,Specialty Retailers,2026-10-05
+ODFL,Old Dominion Freight Line,Industrials,Trucking,2026-10-05
+PCAR,Paccar,Consumer Discretionary,Motor Vehicles,2026-10-05
+PLTR,Palantir Technologies,Technology,Software,2026-10-05
+PANW,Palo Alto Networks,Technology,Computer Peripheral Equipment,2026-10-05
+PAYX,Paychex,Industrials,Diversified Commercial Services,2026-10-05
+PYPL,PayPal,Industrials,Diversified Commercial Services,2026-10-05
+PDD,PDD Holdings,Technology,EDP Services,2026-10-05
+PEP,PepsiCo,Consumer Staples,Soft Drinks,2026-10-05
+QCOM,Qualcomm,Technology,Semiconductors,2026-10-05
+REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,2026-10-05
+RKLB,Rocket Lab,Industrials,Aerospace,2026-10-05
+ROP,Roper Technologies,Technology,Software,2026-10-05
+ROST,Ross Stores,Consumer Discretionary,Clothing/Shoe/Accessory Stores,2026-10-05
+SNDK,Sandisk,Technology,Electronic Components,2026-10-05
+STX,Seagate Technology,Technology,Electronic Components,2026-10-05
+SHOP,Shopify,Technology,Software,2026-10-05
+SPCX,SpaceX,Telecommunications,Telecommunications Services,2026-10-05
+SBUX,Starbucks,Consumer Discretionary,Restaurants,2026-10-05
+SNPS,Synopsys,Technology,Software,2026-10-05
+TMUS,T-Mobile US,Telecommunications,Telecommunications Services,2026-10-05
+TTWO,Take-Two Interactive,Consumer Discretionary,Miscellaneous Amusement & Recreation Services,2026-10-05
+TER,Teradyne,Technology,Semiconductors,2026-10-05
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobiles & Parts,2026-10-05
+TXN,Texas Instruments,Technology,Semiconductors,2026-10-05
+TRI,Thomson Reuters,Technology,Software,2026-10-05
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,2026-10-05
+WMT,Walmart,Consumer Discretionary,Department/Specialty Retail Stores,2026-10-05
+WBD,Warner Bros. Discovery,Consumer Discretionary,Entertainment,2026-10-05
+WDC,Western Digital,Technology,Electronic Components,2026-10-05
+WDAY,"Workday, Inc.",Technology,Software,2026-10-05
+XEL,Xcel Energy,Utilities,Conventional Electricity,2026-10-05
