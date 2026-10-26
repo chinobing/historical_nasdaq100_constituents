@@ -82,7 +82,7 @@ def main():
     nasdaq_100_constituents.to_csv('nasdaq100_constituents.csv', index=False)
     
     # Clean up non-ticker columns. Using errors='ignore' ensures safety if columns change.
-    columns_to_drop = ['company', 'icb industry', 'icb subsector']
+    columns_to_drop = ['company', 'isin', 'icb industry', 'icb subsector']
     nasdaq_100_constituents.drop(columns_to_drop, axis=1, inplace=True, errors='ignore')
 
     # Ensure standard schema: ticker and date
