@@ -8,7 +8,7 @@ List of Nasdaq 100 historical constituents from 2026/09/08 to present. CSV forma
 
 
 ## Latest Changes
-NASDAQ-100 Constituents Auto Renew at **2026-11-01 04:05:39**
+NASDAQ-100 Constituents Auto Renew at **2026-11-01 17:35:00**
 
 | date       | added_tickers   | removed_tickers   |
 |:-----------|:----------------|:------------------|
