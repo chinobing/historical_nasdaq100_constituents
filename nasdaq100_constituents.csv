@@ -1,102 +1,102 @@
 ticker,company,isin,icb industry,icb subsector,date
-ADBE,Adobe Inc.,US00724F1012,Technology,Software,2026-11-17
-AMD,Advanced Micro Devices,US0079031078,Technology,Semiconductors,2026-11-17
-ABNB,Airbnb,US0090661010,Consumer Discretionary,Diversified Commercial Services,2026-11-17
-ALNY,Alnylam Pharmaceuticals,US02043Q1076,Health Care,Biotechnology,2026-11-17
-GOOGL,Alphabet Inc. (Class A),US02079K3059,Technology,Software,2026-11-17
-GOOG,Alphabet Inc. (Class C),US02079K1079,Technology,Software,2026-11-17
-AMZN,Amazon,US0231351067,Consumer Discretionary,Catalog/Specialty Distribution,2026-11-17
-AEP,American Electric Power,US0255371017,Utilities,Electric Utilities,2026-11-17
-AMGN,Amgen,US0311621009,Health Care,Biotechnology,2026-11-17
-ADI,Analog Devices,US0326541051,Technology,Semiconductors,2026-11-17
-AAPL,Apple Inc.,US0378331005,Technology,Computer Hardware,2026-11-17
-AMAT,Applied Materials,US0382221051,Technology,Semiconductors,2026-11-17
-APP,AppLovin,US03831W1080,Technology,Software,2026-11-17
-ARM,Arm Holdings,US0420682058,Technology,Semiconductors,2026-11-17
-ASML,ASML Holding,USN070592100,Technology,Industrial Machinery,2026-11-17
-ALAB,Astera Labs,US04626A1034,Technology,Semiconductors,2026-11-17
-ADSK,Autodesk,US0527691069,Technology,Software,2026-11-17
-ADP,Automatic Data Processing,US0530151036,Industrials,Diversified Commercial Services,2026-11-17
-AXON,Axon Enterprise,US05464C1018,Industrials,Ordnance & Accessories,2026-11-17
-BKR,Baker Hughes,US05722G1004,Energy,Oil Equipment & Services,2026-11-17
-BKNG,Booking Holdings,US09857L1089,Consumer Discretionary,Transportation Services,2026-11-17
-AVGO,Broadcom,US11135F1012,Technology,Semiconductors,2026-11-17
-CDNS,Cadence Design Systems,US1273871087,Technology,Software,2026-11-17
-CTAS,Cintas,US1729081059,Industrials,Garments & Clothing,2026-11-17
-CSCO,Cisco,US17275R1023,Telecommunications,Computer Communications Equipment,2026-11-17
-CCEP,Coca-Cola Europacific Partners,GB00BDCPN049,Consumer Staples,Soft Drinks,2026-11-17
-CMCSA,Comcast,US20030N1019,Telecommunications,Cable & Other Pay Television Services,2026-11-17
-CEG,Constellation Energy,US21037T1097,Utilities,Electric Utilities,2026-11-17
-CPRT,Copart,US2172041061,Consumer Discretionary,Retail,2026-11-17
-CRWV,CoreWeave,US21873S1087,Technology,Computer Services,2026-11-17
-COST,Costco,US22160K1051,Consumer Discretionary,Department/Specialty Retail Stores,2026-11-17
-CRWD,CrowdStrike,US22788C1053,Technology,Software,2026-11-17
-CSX,CSX Corporation,US1264081035,Industrials,Railroads,2026-11-17
-DDOG,Datadog,US23804L1035,Technology,Software,2026-11-17
-DXCM,DexCom,US2521311074,Health Care,Medical/Dental Instruments,2026-11-17
-FANG,Diamondback Energy,US25278X1090,Energy,Oil & Gas Production,2026-11-17
-DASH,DoorDash,US25809K1051,Technology,Software,2026-11-17
-EXC,Exelon,US30161N1019,Utilities,Power Generation,2026-11-17
-FAST,Fastenal,US3119001044,Industrials,Construction & Materials,2026-11-17
-FER,Ferrovial,NL0015001FS8,Industrials,"Military, Government, Technical",2026-11-17
-FTNT,Fortinet,US34959E1091,Technology,Computer Peripheral Equipment,2026-11-17
-GEHC,GE HealthCare,US36266G1076,Health Care,Medical Electronics,2026-11-17
-GILD,Gilead Sciences,US3755581036,Health Care,Biotechnology,2026-11-17
-HONA,Honeywell Aerospace,US43849R1059,Industrials,Aerospace,2026-11-17
-HON,Honeywell Technologies,US4385162056,Industrials,Diversified Industrials,2026-11-17
-IDXX,Idexx Laboratories,US45168D1046,Health Care,Biotechnology,2026-11-17
-INTC,Intel,US4581401001,Technology,Semiconductors,2026-11-17
-INTU,Intuit,US4612021034,Technology,Computer Software,2026-11-17
-ISRG,Intuitive Surgical,US46120E6023,Health Care,Industrial Specialties,2026-11-17
-KDP,Keurig Dr Pepper,US49271V1008,Consumer Staples,Soft Drinks,2026-11-17
-KLAC,KLA Corporation,US4824801009,Technology,Electronic Components,2026-11-17
-LRCX,Lam Research,US5128073062,Technology,Industrial Machinery,2026-11-17
-LIN,Linde plc,IE000S9YS762,Basic Materials,Major Chemicals,2026-11-17
-LITE,Lumentum,US55024U1097,Technology,Communication Equipment,2026-11-17
-MAR,Marriott International,US5719032022,Consumer Discretionary,Hotels/Resorts,2026-11-17
-MRVL,Marvell Technology,US5738741041,Technology,Semiconductors,2026-11-17
-MELI,Mercado Libre,US58733R1023,Consumer Discretionary,Catalog/Specialty Distribution,2026-11-17
-META,Meta Platforms,US30303M1027,Technology,Software,2026-11-17
-MCHP,Microchip Technology,US5950171042,Technology,Semiconductors,2026-11-17
-MU,Micron Technology,US5951121038,Technology,Semiconductors,2026-11-17
-MSFT,Microsoft,US5949181045,Technology,Software,2026-11-17
-MSTR,MicroStrategy,US5949724083,Technology,Software,2026-11-17
-MRNA,Moderna,US60770K1079,Health Care,Biotechnology,2026-11-17
-MDLZ,Mondelez International,US6092071058,Consumer Staples,Packaged Foods,2026-11-17
-MPWR,Monolithic Power Systems,US6098391054,Technology,Semiconductors,2026-11-17
-MNST,Monster Beverage,US61174X1090,Consumer Staples,Soft Drinks,2026-11-17
-NBIS,Nebius Group,NL0009805522,Technology,Computer Services,2026-11-17
-NFLX,"Netflix, Inc.",US64110L1061,Consumer Discretionary,Consumer Electronics,2026-11-17
-NVDA,Nvidia,US67066G1040,Technology,Semiconductors,2026-11-17
-NXPI,NXP Semiconductors,NL0009538784,Technology,Semiconductors,2026-11-17
-ORLY,O'Reilly Automotive,US67103H1077,Consumer Discretionary,Specialty Retailers,2026-11-17
-ODFL,Old Dominion Freight Line,US6795801009,Industrials,Trucking,2026-11-17
-PCAR,Paccar,US6937181088,Consumer Discretionary,Motor Vehicles,2026-11-17
-PLTR,Palantir Technologies,US69608A1088,Technology,Software,2026-11-17
-PANW,Palo Alto Networks,US6974351057,Technology,Computer Peripheral Equipment,2026-11-17
-PAYX,Paychex,US7043261079,Industrials,Diversified Commercial Services,2026-11-17
-PYPL,PayPal,US70450Y1038,Industrials,Diversified Commercial Services,2026-11-17
-PDD,PDD Holdings,US7223041028,Technology,EDP Services,2026-11-17
-PEP,PepsiCo,US7134481081,Consumer Staples,Soft Drinks,2026-11-17
-QCOM,Qualcomm,US7475251036,Technology,Semiconductors,2026-11-17
-REGN,Regeneron Pharmaceuticals,US75886F1075,Health Care,Biotechnology,2026-11-17
-RKLB,Rocket Lab,US7731211089,Industrials,Aerospace,2026-11-17
-ROP,Roper Technologies,US7766961061,Technology,Software,2026-11-17
-ROST,Ross Stores,US7782961038,Consumer Discretionary,Clothing/Shoe/Accessory Stores,2026-11-17
-SNDK,Sandisk,US80004C2008,Technology,Electronic Components,2026-11-17
-STX,Seagate Technology,IE00BKVD2N49,Technology,Electronic Components,2026-11-17
-SHOP,Shopify,CA82509L1076,Technology,Software,2026-11-17
-SPCX,SpaceX,US84615Q1031,Telecommunications,Telecommunications Services,2026-11-17
-SBUX,Starbucks,US8552441094,Consumer Discretionary,Restaurants,2026-11-17
-SNPS,Synopsys,US8716071076,Technology,Software,2026-11-17
-TMUS,T-Mobile US,US8725901040,Telecommunications,Telecommunications Services,2026-11-17
-TTWO,Take-Two Interactive,US8740541094,Consumer Discretionary,Miscellaneous Amusement & Recreation Services,2026-11-17
-TER,Teradyne,US8807701029,Technology,Semiconductors,2026-11-17
-TSLA,"Tesla, Inc.",US88160R1014,Consumer Discretionary,Automobiles & Parts,2026-11-17
-TXN,Texas Instruments,US8825081040,Technology,Semiconductors,2026-11-17
-TRI,Thomson Reuters,CA8849038812,Technology,Software,2026-11-17
-VRTX,Vertex Pharmaceuticals,US92532F1003,Health Care,Biotechnology,2026-11-17
-WMT,Walmart,US9311421039,Consumer Discretionary,Department/Specialty Retail Stores,2026-11-17
-WDC,Western Digital,US9581021055,Technology,Electronic Components,2026-11-17
-WDAY,"Workday, Inc.",US98138H1014,Technology,Software,2026-11-17
-XEL,Xcel Energy,US98389B1008,Utilities,Conventional Electricity,2026-11-17
+ADBE,Adobe Inc.,US00724F1012,Technology,Software,2026-11-18
+AMD,Advanced Micro Devices,US0079031078,Technology,Semiconductors,2026-11-18
+ABNB,Airbnb,US0090661010,Consumer Discretionary,Diversified Commercial Services,2026-11-18
+ALNY,Alnylam Pharmaceuticals,US02043Q1076,Health Care,Biotechnology,2026-11-18
+GOOGL,Alphabet Inc. (Class A),US02079K3059,Technology,Software,2026-11-18
+GOOG,Alphabet Inc. (Class C),US02079K1079,Technology,Software,2026-11-18
+AMZN,Amazon,US0231351067,Consumer Discretionary,Catalog/Specialty Distribution,2026-11-18
+AEP,American Electric Power,US0255371017,Utilities,Electric Utilities,2026-11-18
+AMGN,Amgen,US0311621009,Health Care,Biotechnology,2026-11-18
+ADI,Analog Devices,US0326541051,Technology,Semiconductors,2026-11-18
+AAPL,Apple Inc.,US0378331005,Technology,Computer Hardware,2026-11-18
+AMAT,Applied Materials,US0382221051,Technology,Semiconductors,2026-11-18
+APP,AppLovin,US03831W1080,Technology,Software,2026-11-18
+ARM,Arm Holdings,US0420682058,Technology,Semiconductors,2026-11-18
+ASML,ASML Holding,USN070592100,Technology,Industrial Machinery,2026-11-18
+ALAB,Astera Labs,US04626A1034,Technology,Semiconductors,2026-11-18
+ADSK,Autodesk,US0527691069,Technology,Software,2026-11-18
+ADP,Automatic Data Processing,US0530151036,Industrials,Diversified Commercial Services,2026-11-18
+AXON,Axon Enterprise,US05464C1018,Industrials,Ordnance & Accessories,2026-11-18
+BKR,Baker Hughes,US05722G1004,Energy,Oil Equipment & Services,2026-11-18
+BKNG,Booking Holdings,US09857L1089,Consumer Discretionary,Transportation Services,2026-11-18
+AVGO,Broadcom,US11135F1012,Technology,Semiconductors,2026-11-18
+CDNS,Cadence Design Systems,US1273871087,Technology,Software,2026-11-18
+CTAS,Cintas,US1729081059,Industrials,Garments & Clothing,2026-11-18
+CSCO,Cisco,US17275R1023,Telecommunications,Computer Communications Equipment,2026-11-18
+CCEP,Coca-Cola Europacific Partners,GB00BDCPN049,Consumer Staples,Soft Drinks,2026-11-18
+CMCSA,Comcast,US20030N1019,Telecommunications,Cable & Other Pay Television Services,2026-11-18
+CEG,Constellation Energy,US21037T1097,Utilities,Electric Utilities,2026-11-18
+CPRT,Copart,US2172041061,Consumer Discretionary,Retail,2026-11-18
+CRWV,CoreWeave,US21873S1087,Technology,Computer Services,2026-11-18
+COST,Costco,US22160K1051,Consumer Discretionary,Department/Specialty Retail Stores,2026-11-18
+CRWD,CrowdStrike,US22788C1053,Technology,Software,2026-11-18
+CSX,CSX Corporation,US1264081035,Industrials,Railroads,2026-11-18
+DDOG,Datadog,US23804L1035,Technology,Software,2026-11-18
+DXCM,DexCom,US2521311074,Health Care,Medical/Dental Instruments,2026-11-18
+FANG,Diamondback Energy,US25278X1090,Energy,Oil & Gas Production,2026-11-18
+DASH,DoorDash,US25809K1051,Technology,Software,2026-11-18
+EXC,Exelon,US30161N1019,Utilities,Power Generation,2026-11-18
+FAST,Fastenal,US3119001044,Industrials,Construction & Materials,2026-11-18
+FER,Ferrovial,NL0015001FS8,Industrials,"Military, Government, Technical",2026-11-18
+FTNT,Fortinet,US34959E1091,Technology,Computer Peripheral Equipment,2026-11-18
+GEHC,GE HealthCare,US36266G1076,Health Care,Medical Electronics,2026-11-18
+GILD,Gilead Sciences,US3755581036,Health Care,Biotechnology,2026-11-18
+HONA,Honeywell Aerospace,US43849R1059,Industrials,Aerospace,2026-11-18
+HON,Honeywell Technologies,US4385162056,Industrials,Diversified Industrials,2026-11-18
+IDXX,Idexx Laboratories,US45168D1046,Health Care,Biotechnology,2026-11-18
+INTC,Intel,US4581401001,Technology,Semiconductors,2026-11-18
+INTU,Intuit,US4612021034,Technology,Computer Software,2026-11-18
+ISRG,Intuitive Surgical,US46120E6023,Health Care,Industrial Specialties,2026-11-18
+KDP,Keurig Dr Pepper,US49271V1008,Consumer Staples,Soft Drinks,2026-11-18
+KLAC,KLA Corporation,US4824801009,Technology,Electronic Components,2026-11-18
+LRCX,Lam Research,US5128073062,Technology,Industrial Machinery,2026-11-18
+LIN,Linde plc,IE000S9YS762,Basic Materials,Major Chemicals,2026-11-18
+LITE,Lumentum,US55024U1097,Technology,Communication Equipment,2026-11-18
+MAR,Marriott International,US5719032022,Consumer Discretionary,Hotels/Resorts,2026-11-18
+MRVL,Marvell Technology,US5738741041,Technology,Semiconductors,2026-11-18
+MELI,Mercado Libre,US58733R1023,Consumer Discretionary,Catalog/Specialty Distribution,2026-11-18
+META,Meta Platforms,US30303M1027,Technology,Software,2026-11-18
+MCHP,Microchip Technology,US5950171042,Technology,Semiconductors,2026-11-18
+MU,Micron Technology,US5951121038,Technology,Semiconductors,2026-11-18
+MSFT,Microsoft,US5949181045,Technology,Software,2026-11-18
+MSTR,MicroStrategy,US5949724083,Technology,Software,2026-11-18
+MRNA,Moderna,US60770K1079,Health Care,Biotechnology,2026-11-18
+MDLZ,Mondelez International,US6092071058,Consumer Staples,Packaged Foods,2026-11-18
+MPWR,Monolithic Power Systems,US6098391054,Technology,Semiconductors,2026-11-18
+MNST,Monster Beverage,US61174X1090,Consumer Staples,Soft Drinks,2026-11-18
+NBIS,Nebius Group,NL0009805522,Technology,Computer Services,2026-11-18
+NFLX,"Netflix, Inc.",US64110L1061,Consumer Discretionary,Consumer Electronics,2026-11-18
+NVDA,Nvidia,US67066G1040,Technology,Semiconductors,2026-11-18
+NXPI,NXP Semiconductors,NL0009538784,Technology,Semiconductors,2026-11-18
+ORLY,O'Reilly Automotive,US67103H1077,Consumer Discretionary,Specialty Retailers,2026-11-18
+ODFL,Old Dominion Freight Line,US6795801009,Industrials,Trucking,2026-11-18
+PCAR,Paccar,US6937181088,Consumer Discretionary,Motor Vehicles,2026-11-18
+PLTR,Palantir Technologies,US69608A1088,Technology,Software,2026-11-18
+PANW,Palo Alto Networks,US6974351057,Technology,Computer Peripheral Equipment,2026-11-18
+PAYX,Paychex,US7043261079,Industrials,Diversified Commercial Services,2026-11-18
+PYPL,PayPal,US70450Y1038,Industrials,Diversified Commercial Services,2026-11-18
+PDD,PDD Holdings,US7223041028,Technology,EDP Services,2026-11-18
+PEP,PepsiCo,US7134481081,Consumer Staples,Soft Drinks,2026-11-18
+QCOM,Qualcomm,US7475251036,Technology,Semiconductors,2026-11-18
+REGN,Regeneron Pharmaceuticals,US75886F1075,Health Care,Biotechnology,2026-11-18
+RKLB,Rocket Lab,US7731211089,Industrials,Aerospace,2026-11-18
+ROP,Roper Technologies,US7766961061,Technology,Software,2026-11-18
+ROST,Ross Stores,US7782961038,Consumer Discretionary,Clothing/Shoe/Accessory Stores,2026-11-18
+SNDK,Sandisk,US80004C2008,Technology,Electronic Components,2026-11-18
+STX,Seagate Technology,IE00BKVD2N49,Technology,Electronic Components,2026-11-18
+SHOP,Shopify,CA82509L1076,Technology,Software,2026-11-18
+SPCX,SpaceX,US84615Q1031,Telecommunications,Telecommunications Services,2026-11-18
+SBUX,Starbucks,US8552441094,Consumer Discretionary,Restaurants,2026-11-18
+SNPS,Synopsys,US8716071076,Technology,Software,2026-11-18
+TMUS,T-Mobile US,US8725901040,Telecommunications,Telecommunications Services,2026-11-18
+TTWO,Take-Two Interactive,US8740541094,Consumer Discretionary,Miscellaneous Amusement & Recreation Services,2026-11-18
+TER,Teradyne,US8807701029,Technology,Semiconductors,2026-11-18
+TSLA,"Tesla, Inc.",US88160R1014,Consumer Discretionary,Automobiles & Parts,2026-11-18
+TXN,Texas Instruments,US8825081040,Technology,Semiconductors,2026-11-18
+TRI,Thomson Reuters,CA8849038812,Technology,Software,2026-11-18
+VRTX,Vertex Pharmaceuticals,US92532F1003,Health Care,Biotechnology,2026-11-18
+WMT,Walmart,US9311421039,Consumer Discretionary,Department/Specialty Retail Stores,2026-11-18
+WDC,Western Digital,US9581021055,Technology,Electronic Components,2026-11-18
+WDAY,"Workday, Inc.",US98138H1014,Technology,Software,2026-11-18
+XEL,Xcel Energy,US98389B1008,Utilities,Conventional Electricity,2026-11-18
